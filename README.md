@@ -1,8 +1,8 @@
 ### Hi! My name's [Vladimir](https://t.me/Nano_Watcher).
 
 * I'm a backend `Go` developer.
-* I have worked with `Docker`,`postgreSQL`, `Bash`
-* Improving my knowledge in Ecole 42/SC21
+* I have worked with `Docker`,`postgreSQL`, `Bash`.
+* Improving my knowledge in Ecole 42/SC21.
 ---
 ### Languages and Tools:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
