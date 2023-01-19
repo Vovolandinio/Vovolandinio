@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! My name's [Vladimir](https://t.me/Nano_Watcher).
 
-<!--
-**Vovolandinio/Vovolandinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a backend `Go` developer.
+* I have worked with `Docker`,`posrtgreSQL`, `Bash`
+* Improving my knowledge in Ecole 42/SC21
+---
+### Languages and Tools:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
-Here are some ideas to get you started:
+### Contacts
+- Email: nanowatcher65@gmail.com 
+- Telegram: [@Nano_Watcher](https://t.me/Nano_Watcher)
+- Currently based in Moscow, Russia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
