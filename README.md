@@ -1,6 +1,5 @@
 ### Hi! My name's [Vladimir](https://t.me/Nano_Watcher).
 
-* I'm a backend `Go` developer.
 * I have worked with `Docker`,`postgreSQL`, `Bash`.
 * Improving my knowledge in Ecole 42/School 21.
 ---
