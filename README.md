@@ -1,6 +1,6 @@
 ### Hi! My name's [Vladimir](https://t.me/Nano_Watcher).
 
-* I have worked with `Docker`,`postgreSQL`, `Bash`.
+* I have worked with `C++`, `Python`, `Docker`,`postgreSQL`, `Bash`.
 * Improving my knowledge in Ecole 42/School 21.
 ---
 ### Languages and Tools:
