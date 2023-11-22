@@ -1,17 +1,23 @@
 ### Hi! My name's [Vladimir](https://t.me/Nano_Watcher).
 
-* I have worked with `C++`, `Python`, `Docker`,`postgreSQL`, `Bash`.
+* I have worked with `Java`, `Python`, `Docker`,`postgreSQL`, `Bash`.
 * Improving my knowledge in Ecole 42/School 21.
+* DevOps engineer at Sber
 ---
 ### Languages and Tools:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" **alt="CPP" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" **alt="Groovy" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" **alt="bash" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="50" height="50"/>&nbsp;  
+</div>
 
 ---
 
